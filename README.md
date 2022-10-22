@@ -1,2 +1,2 @@
 # Python Machine Learning
-Basic time vs. price models using regression
+Basic Time vs. Price Models Using Regression
